@@ -9,7 +9,7 @@
 - 🔭 Currently working at **LDC Group** as a Software Engineer  
 - 🛠️ Specialized in **PHP, Java, C, C++, C#, SQL, ERP Integration**  
 - 🌱 Currently learning **Python, Node.js, Cloud Computing & Data Engineering**  
-- 💼 Target Role: **Principal Developer)**  
+- 💼 Target Role: **Principal Developer Manager**  
 - 👥 Collaborating on: **ERP automation & database integration projects**  
 - 📫 Reach me at: **[nazmul.hasan.se@gmail.com]**  
 - 🌍 LinkedIn: **[www.linkedin.com/in/nazmul1991]**  
@@ -21,7 +21,7 @@
 💻 **Languages:** PHP, Python, Java, C, C++, C#  
 🗄️ **Databases:** MySQL, Oracle, DB2, NoSQL  
 🖥️ **Frameworks:** Laravel, Django, ABS  
-⚙️ **Tools:** Git, Sublime Text, VS Code  
+⚙️ **Tools:** Git, Alumio, GraphQL, Postman, Crystal Report, Sublime Text, VS Code  
 
 ---
 
