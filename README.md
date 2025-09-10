@@ -12,7 +12,7 @@
 - 💼 Target Role: **Principal Developer)**  
 - 👥 Collaborating on: **ERP automation & database integration projects**  
 - 📫 Reach me at: **[nazmul.hasan.se@gmail.com]**  
-- 🌍 LinkedIn: **[www.linkedin.com/in/nazmul1991](#)**  
+- 🌍 LinkedIn: **[www.linkedin.com/in/nazmul1991]**  
 - 🖥️ Portfolio: **[GitHub Profile](https://github.com/nazmulhasanse)**  
 
 ---
