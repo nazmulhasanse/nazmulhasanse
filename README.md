@@ -9,9 +9,9 @@
 - 🌱 Currently learning **Python, Node.js, Cloud Computing & Data Engineering**  
 - 💼 Target Role: **Principal Developer Manager**  
 - 👥 Collaborating on: **ERP automation & database integration projects**  
-- 📫 Reach me at: **[nazmul.hasan.se@gmail.com]**  
-- 🌍 LinkedIn: **[www.linkedin.com/in/nazmul1991]**  
-- 🖥️ Portfolio: **[GitHub Profile](https://github.com/nazmulhasanse)**  
+- 📫 Reach me at: **nazmul.hasan.se@gmail.com**  
+- 🌍 LinkedIn: **[Profile](www.linkedin.com/in/nazmul1991)**  
+- 🖥️ Portfolio: **[Link](https://www.itsbappy.ordpress.com)**  
 
 ---
 
