@@ -18,10 +18,11 @@
 ---
 
 ## 🧰 My Tech Toolbox  
-💻 **Languages:** PHP, Python, Java, C, C++, C#  
-🗄️ **Databases:** MySQL, Oracle, DB2, NoSQL  
-🖥️ **Frameworks:** Laravel, Django, ABS  
-⚙️ **Tools:** Git, Alumio, GraphQL, Postman, Crystal Report, Sublime Text, VS Code  
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,python,js,html,css,bootstrap,jquery,react,vue,django,graphql,mysql,oracle,mongodb,git,github,linux,aws,docker,vscode" />
+</p>
+  
 
 ---
 
