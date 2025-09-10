@@ -1,8 +1,6 @@
 # Hi there 👋, I'm Nazmul Hasan (Bappy)  
 🚀 Software Engineer | ERP Developer | Tech Enthusiast from Bangladesh  
 
-![coder gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
-
 ---
 
 ## 💡 About Me  
