@@ -11,7 +11,7 @@
 - 👥 Collaborating on: **ERP automation & database integration projects**  
 - 📫 Reach me at: **nazmul.hasan.se@gmail.com**  
 - 🌍 LinkedIn: **[Profile](https://www.linkedin.com/in/nazmul1991)**  
-- 🖥️ Portfolio: **[Link](https://www.itsbappy.ordpress.com)**  
+- 🖥️ Portfolio: **[Link](https://www.itsbappy.wordpress.com)**  
 
 ---
 
