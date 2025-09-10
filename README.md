@@ -6,13 +6,13 @@
 ---
 
 ## 💡 About Me  
-- 🔭 Currently working at **ABC Group** as a Software Engineer  
-- 🛠️ Specialized in **PHP, Python, Java, C, C++, C#, SQL, ERP Integration**  
-- 🌱 Currently learning **Node.js, Cloud Computing & Data Engineering**  
-- 💼 Target Role: **Principal Officer / Senior Officer (PL/SQL Developer)**  
+- 🔭 Currently working at **LDC Group** as a Software Engineer  
+- 🛠️ Specialized in **PHP, Java, C, C++, C#, SQL, ERP Integration**  
+- 🌱 Currently learning **Python, Node.js, Cloud Computing & Data Engineering**  
+- 💼 Target Role: **Principal Developer)**  
 - 👥 Collaborating on: **ERP automation & database integration projects**  
-- 📫 Reach me at: **[your.email@example.com]**  
-- 🌍 LinkedIn: **[Your LinkedIn Profile](#)**  
+- 📫 Reach me at: **[nazmul.hasan.se@gmail.com]**  
+- 🌍 LinkedIn: **[www.linkedin.com/in/nazmul1991](#)**  
 - 🖥️ Portfolio: **[GitHub Profile](https://github.com/nazmulhasanse)**  
 
 ---
