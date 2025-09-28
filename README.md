@@ -18,7 +18,7 @@
 ## 🧰 My Tech Toolbox  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,python,js,html,css,bootstrap,jquery,react,vue,django,graphql,mysql,oracle,mongodb,git,github,linux,aws,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=php,python,js,html,css,bootstrap,jquery,react,vue,django,graphql,mysql,mongodb,git,github,linux,aws,docker,vscode" />
 </p>
   
 
