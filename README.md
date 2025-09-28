@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Nazmul Hasan (Bappy)  
+# Hi there 👋, I'm Nazmul Hasan  
 🚀 Software Engineer | ERP Developer | Tech Enthusiast from Bangladesh  
 
 ---
@@ -32,4 +32,4 @@
 
 ---
 
-⭐️ From [Nazmul Hasan (Bappy)](https://github.com/nazmulhasanse)  
+⭐️ From [Nazmul Hasan](https://github.com/nazmulhasanse)  
