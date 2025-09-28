@@ -5,7 +5,7 @@
 
 ## 💡 About Me  
 - 🔭 Currently working at **LDC Group** as a Software Engineer  
-- 🛠️ Specialized in **PHP, Java, C, C++, C#, SQL, ERP Integration**  
+- 🛠️ Specialized in **PHP, JavaScript, HTML, CSS, SQL, Laravel & ERP Integration**  
 - 🌱 Currently learning **Python, Node.js, Cloud Computing & Data Engineering**  
 - 💼 Target Role: **Principal Developer Manager**  
 - 👥 Collaborating on: **ERP automation & database integration projects**  
